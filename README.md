@@ -1,15 +1,22 @@
 <div align="center">
 
-<h1 style="font-size: 48px;">Sainath Goud</h1>
+✨✨  
+# **Sainath Goud**  
+✨✨  
 
-<h3>B.Tech CSE (Data Science) Student | NMIMS Hyderabad</h3>
-<h2>Aspiring ML Engineer | Full Stack Developer</h2>
+### B.Tech CSE (Data Science) Student | NMIMS Hyderabad  
 
-<a href="https://godasainathgoud.tech" target="_blank">
-  <img src="https://img.shields.io/badge/PORTFOLIO-Visit%20Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
+<br>
+
+## **Aspiring ML Engineer | Full Stack Developer**
+
+<br>
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-godasainathgoud.tech-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://godasainathgoud.tech)
 
 </div>
+
+---
 
 
 ---
