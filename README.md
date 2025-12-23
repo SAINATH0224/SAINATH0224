@@ -43,31 +43,55 @@ I enjoy transforming data into meaningful insights and developing scalable appli
 
 ---
 
-## 🧩 Featured Projects
+## 💼 Featured Projects
+_A collection of projects showcasing different aspects of my technical journey_
 
-### 🏠 Home Foods Website
-A full-stack food ordering platform for home-based chefs using AWS & Firebase.  
-🔗 [View Repository](https://github.com/SAINATH0224/Home-Foods)
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+### 🏠 **Home Foods Website**
+A full-stack food ordering platform for home-based chefs, built using HTML, CSS, JavaScript, Firebase, and AWS services.  
+Supports real-time order handling and scalable deployment.
 
-### 🧠 Mental Health Predictor
-Machine learning system predicting mental health treatment-seeking behavior using survey data.  
-🔗 [View Repository](https://github.com/SAINATH0224/MentalHealthPredictor)
+🔗 [View Code](https://github.com/SAINATH0224/Home-Foods)
 
----
+</td>
+<td width="50%" valign="top">
 
-### 🏏 IMPULSE Sports Website
-Official sports committee website for NMIMS STME showcasing teams and events.  
-🔗 [View Repository](https://github.com/SAINATH0224/IMPULSE_Sports_Website)
+### 🧠 **Mental Health Predictor**
+Machine learning system that predicts mental health treatment-seeking behavior using survey data.  
+Multiple ML models implemented with feature selection and cross-validation.
 
----
+🔗 [View Code](https://github.com/SAINATH0224/MentalHealthPredictor)
 
-### 🧾 Smart Attendance Management System
-Real-time face recognition-based attendance system using computer vision.  
-🔗 [View Repository](https://github.com/SAINATH0224/Sams)
+</td>
+</tr>
 
----
+<tr>
+<td width="50%" valign="top">
+
+### 🏏 **IMPULSE Sports Website**
+Official sports committee website for NMIMS STME showcasing teams, events, and announcements.  
+Acts as a central hub for sports coordination.
+
+🔗 [View Code](https://github.com/SAINATH0224/IMPULSE_Sports_Website)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧾 **Smart Attendance Management System**
+Real-time face recognition–based attendance system using computer vision techniques.  
+Automates attendance marking with improved accuracy and security.
+
+🔗 [View Code](https://github.com/SAINATH0224/Sams)
+
+</td>
+</tr>
+</table>
+
+🔍 **View all projects** → [GitHub Repositories](https://github.com/SAINATH0224?tab=repositories)
+
 
 ## 📊 GitHub Stats
 
