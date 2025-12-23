@@ -50,18 +50,20 @@ _A collection of projects showcasing different aspects of my technical journey_
 <tr>
 <td width="50%" valign="top">
 
-### 🏦 **Digital Wallet Tracker 2.0**
-A Flask web app that uses OCR to extract transaction data from UPI receipts, helping users track and visualize spending patterns with interactive charts.
+### 🏠 **Home Foods Website**
+A full-stack platform for promoting and selling homemade food products, built using HTML, CSS, JavaScript, Firebase, and AWS services.  
+Supports secure authentication, order handling, and scalable deployment.
 
-🟢 **Live Demo** · 🔵 [View Code](#)
+🔴 **Deploying Soon** · 🔵 [View Code](https://github.com/SAINATH0224/Home-Foods)
 
 </td>
 <td width="50%" valign="top">
 
-### ✋ **Sign Language Translator**
-An ongoing project that translates sign language gestures into text and speech in real time using Computer Vision and Deep Learning techniques.
+### 🧠 **Mental Health Predictor**
+Machine learning system that predicts mental health treatment-seeking behavior using real-world survey data.  
+Multiple ML models implemented with feature selection and cross-validation.
 
-🔴 **In Progress** · 🔵 [View Code](#)
+🔵 **Run Locally** · 🔵 [View Code](https://github.com/SAINATH0224/MentalHealthPredictor)
 
 </td>
 </tr>
@@ -69,18 +71,19 @@ An ongoing project that translates sign language gestures into text and speech i
 <tr>
 <td width="50%" valign="top">
 
-### 🗓️ **Smart Timetable Generator**
-A web-based system using Flask and Firebase to automatically generate conflict-free academic schedules for educational institutions.
+### 🏏 **IMPULSE Sports Website**
+Official website for the NMIMS STME Sports Committee showcasing teams, events, and announcements.  
+Acts as a central hub for sports coordination and updates.
 
-🔴 **In Progress** · 🔵 [View Code](#)
+🔵 **Run Locally** · 🔵 [View Code](https://github.com/SAINATH0224/IMPULSE_Sports_Website)
 
 </td>
 <td width="50%" valign="top">
 
-### 🗺️ **Local Vendor Finder**
-A location-based web application with a conversational bot that helps users find nearby vegetable and fruit vendors using Google Maps API integration.
+### 🧾 **Smart Attendance Management System**
+A real-time face recognition–based attendance system that automates and secures attendance marking using computer vision techniques.
 
-🟢 **Live Demo** · 🔵 [View Code](#)
+🔴 **In Progress** · 🔵 [View Code](https://github.com/SAINATH0224/Sams)
 
 </td>
 </tr>
