@@ -132,9 +132,4 @@ A real-time face recognition–based attendance system that automates and secure
 <a href="https://github.com/SAINATH0224">
   <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-<br><br>
-
-> 🚀 *Let’s build solutions that create real-world impact.*
-
 </div>
