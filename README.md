@@ -90,7 +90,26 @@ Automates attendance marking with improved accuracy and security.
 </tr>
 </table>
 
-🔍 **View all projects** → [GitHub Repositories](https://github.com/SAINATH0224?tab=repositories)
+<details>
+<summary>📂 <b>View All Projects</b></summary>
+
+<br>
+
+| Project Name | Description | Tech Stack | Links |
+|-------------|-------------|------------|-------|
+| **Digital Wallet Tracker 2.0** | OCR-powered UPI receipt analyzer with spending visualization | `Python`, `Flask`, `Tesseract`, `Chart.js` | [Code](#) · [Demo](#) |
+| **Sign Language Translator** | Real-time gesture recognition and speech synthesis | `Python`, `TensorFlow`, `OpenCV`, `MediaPipe` | [Code](#) |
+| **Smart Timetable Generator** | Automated academic scheduling system | `Python`, `Flask`, `Firebase` | [Code](#) |
+| **Local Vendor Finder** | Maps-based vendor location service with AI bot | `HTML`, `CSS`, `JavaScript`, `Google Maps API` | [Code](#) · [Demo](#) |
+| **QueryBot – Campus Assistant** | NLP chatbot for university queries | `Python`, `NLTK`, `TensorFlow` | [Code](#) |
+| **Attendance QuickChecker** | Student attendance tracking and analytics | `Python`, `Tkinter`, `Pandas` | [Code](#) |
+| **Mental Health Predictor** | ML model for treatment outcome prediction | `Python`, `Scikit-learn`, `Pandas` | [Code](#) |
+| **Best Frame Selector** | Video frame quality assessment tool | `Python`, `OpenCV` | [Code](#) |
+| **Retail Analytics Dashboard** | Business intelligence for Kirana stores | `Power BI`, `DAX` | [Code](#) |
+| **Academic Performance Dashboard** | Student result analysis and insights | `Power BI`, `DAX` | [Code](#) |
+
+</details>
+
 
 
 ## 📊 GitHub Stats
