@@ -125,7 +125,6 @@ A real-time face recognition–based attendance system that automates and secure
 
 ---
 
----
 
 <div align="center">
 
