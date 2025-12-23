@@ -3,7 +3,6 @@
 <h1 style="font-size: 48px;">Sainath Goud</h1>
 
 <h3>B.Tech CSE (Data Science) Student | NMIMS Hyderabad</h3>
-
 <h2>Aspiring ML Engineer | Full Stack Developer</h2>
 
 <br>
