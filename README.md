@@ -150,5 +150,3 @@ A real-time face recognition–based attendance system that automates and secure
 > 🚀 *Let’s build solutions that create real-world impact.*
 
 </div>
-
----
