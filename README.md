@@ -125,10 +125,31 @@ A real-time face recognition–based attendance system that automates and secure
 
 ---
 
+---
+
 <div align="center">
 
-🌐 **Let’s Connect & Build Something Impactful** 🚀  
+## 💬 Let’s Connect & Collaborate
 
-[![](https://visitcount.itsvg.in/api?id=SAINATH0224&icon=0&color=0)](https://visitcount.itsvg.in)
+*Always open to meaningful discussions, collaboration, and innovative project ideas in*  
+**Machine Learning · Computer Vision · Full-Stack Development**
+
+<br>
+
+<a href="https://linkedin.com/in/sainathgoudgoda">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:godasainathgoud03@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/SAINATH0224">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+> 🚀 *Let’s build solutions that create real-world impact.*
 
 </div>
+
+---
