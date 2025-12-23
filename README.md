@@ -5,8 +5,6 @@
 <h3>B.Tech CSE (Data Science) Student | NMIMS Hyderabad</h3>
 <h2>Aspiring ML Engineer | Full Stack Developer</h2>
 
-<br>
-
 <a href="https://godasainathgoud.tech" target="_blank">
   <img src="https://img.shields.io/badge/PORTFOLIO-Visit%20Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
