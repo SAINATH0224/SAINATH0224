@@ -13,9 +13,6 @@
 
 ---
 
-
----
-
 ## 🚀 About Me
 
 I am a **Computer Science & Data Science undergraduate** passionate about building **real-world solutions** through **Machine Learning, Computer Vision, and Full-Stack Development**.  
