@@ -111,42 +111,9 @@ A real-time face recognition–based attendance system that automates and secure
 
 
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=SAINATH0224&show_icons=true&theme=dark)
-![](https://github-readme-streak-stats.herokuapp.com/?user=SAINATH0224&theme=dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SAINATH0224&layout=compact&theme=dark)
-
----
-
-## ✍️ Developer Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
-
 
 <div align="center">
 
 ## 💬 Let’s Connect & Collaborate
 
-*Always open to meaningful discussions, collaboration, and innovative project ideas in*  
-**Machine Learning · Computer Vision · Full-Stack Development**
 
-<br>
-
-<a href="https://linkedin.com/in/sainathgoudgoda">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:godasainathgoud03@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/SAINATH0224">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br><br>
-
-> 🚀 *Let’s build solutions that create real-world impact.*
-
-</div>
