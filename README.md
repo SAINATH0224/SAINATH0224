@@ -1,13 +1,8 @@
 <div align="center">
 
-✨✨  
 # **Sainath Goud**  
-✨✨  
 
 ### B.Tech CSE (Data Science) Student | NMIMS Hyderabad  
-
-<br>
-
 ## **Aspiring ML Engineer | Full Stack Developer**
 
 <br>
