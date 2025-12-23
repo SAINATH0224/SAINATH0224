@@ -1,6 +1,6 @@
 <div align="center">
 
-✨ <h1>Sainath Goud</h1> ✨  
+ <h1>Sainath Goud</h1>  
 
 ### B.Tech CSE (Data Science) Student | NMIMS Hyderabad  
 ### Aspiring ML Engineer | Full Stack Developer  
@@ -21,13 +21,14 @@
 
 ## 🚀 About Me
 
-I am a **Computer Science & Data Science undergraduate** passionate about building **real-world solutions using Machine Learning, Computer Vision, and Full-Stack Development**.  
+I am a **Computer Science & Data Science undergraduate** passionate about building **real-world solutions** through **Machine Learning, Computer Vision, and Full-Stack Development**.  
 I enjoy transforming data into meaningful insights and developing scalable applications that solve practical problems.
 
 - 🔭 **Current Work**: Vision-based real-time safety system for highway crosswalks using **YOLOv8**
-- 🌱 **Learning**: Advanced ML, Deep Learning, AWS cloud services, and backend systems
-- 🤝 **Open to collaborate on**: ML/DL projects, Computer Vision, Full-Stack Web Apps
+- 🌱 **Learning**: Advanced Machine Learning, Deep Learning, AWS cloud services, and backend systems
+- 🤝 **Open to Collaborate On**: ML/DL projects, Computer Vision, Full-Stack Web Applications
 - 💡 **Belief**: Simple, effective solutions create the biggest impact
+
 
 ---
 
