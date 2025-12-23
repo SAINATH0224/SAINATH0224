@@ -4,15 +4,18 @@
 📍 BTech CSE (Data Science) | NMIMS Hyderabad  
 <br><br>Currently working on: A Vision-Based Real-Time Safety System for Highway Crosswalks using YOLOv8 for vehicle and pedestrian detection. Also building a Centralized Query and Complaint Portal for university-level issue resolution.<br>Looking to collaborate on: ML & DL projects, computer vision, full-stack web apps, Android applications, object detection, and sentiment analysis.<br>Tech Stack: Python, C++, HTML, CSS, JavaScript, SQL, Firebase, Streamlit, Flask, YOLOv8, AWS (Lambda, S3, DynamoDB), Git.<br><br>
 ## 🚀 Projects
+## 🚀 Projects Overview
 
-| **Home Foods Website**                      | Website for promoting and selling homemade food products                    | Supports home-based food businesses with an online presence               | [Repo 🔗](https://github.com/SAINATH0224/Home-Foods) | Deploying Soon    |
-| **Mental Health Predictor**            | ML model analyzing survey data to predict treatment outcomes                | Identifies key indicators in mental health for support strategies         | [Repo 🔗](https://github.com/SAINATH0224/MentalHealthPredictor) | Run Locally       |
-| **IMPULSE Sports Website**                  | Website for NMIMS STME Sports Committee showcasing teams & events           | Acts as a central hub for event updates and team structure                | [Repo 🔗](https://github.com/SAINATH0224/IMPULSE_Sports_Website) | Run Locally       |
-| **Non-Acedamic-Issue-Tracker**              |Platform for reporting and resolving student non-academic concerns within the university system        | Centralized portal to streamline complaints and queries related to facilities, administration, and campus life                | [Repo 🔗](https://github.com/SAINATH0224/Non-Acedamic-Issue-Tracker) | In Progress       |
-| **Smart Attendance Management System**              |Smart Attendance: Marks attendance using real-time face recognition for accuracy and security.      | Smart attendance system using real-time face recognition to automate and secure attendance marking.| [Repo 🔗](https://github.com/SAINATH0224/Sams) | In Progress       |
-| **Wikipedia Sentiment Analysis (Nigeria)**  | Sentiment analysis of Wikipedia content using ML & Streamlit                | Assesses national perception and media tone                               | [Repo 🔗](https://github.com/SAINATH0224/NigeriaWiki) | Streamlit Demo Soon |
-| **NYC Green Taxi Analysis**                 | Visual & statistical exploration of August 2023 NYC taxi data               | Derives insights and fare prediction using regression                     | [Repo 🔗](https://github.com/SAINATH0224/predictive_Analysis_Green_taxi_fare_prediction) | Streamlit Demo Soon |
-| **Highway Safety Detection System**         | Vision-based alert system detecting pedestrians and vehicles at crosswalks | Prevents road accidents via early warning alerts                          | [Repo 🔗](#) | In Progress       |
+| Project Name | Description | Key Use Case / Impact | Repository | Status |
+|-------------|------------|----------------------|------------|--------|
+| **Home Foods Website** | Website for promoting and selling homemade food products | Supports home-based food businesses with an online digital presence | [Repo 🔗](https://github.com/SAINATH0224/Home-Foods) | Deploying Soon |
+| **Mental Health Predictor** | Machine Learning model analyzing survey data to predict treatment outcomes | Identifies key indicators to assist mental health support strategies | [Repo 🔗](https://github.com/SAINATH0224/MentalHealthPredictor) | Run Locally |
+| **IMPULSE Sports Website** | Official website for NMIMS STME Sports Committee showcasing teams and events | Acts as a central hub for sports events, updates, and team structure | [Repo 🔗](https://github.com/SAINATH0224/IMPULSE_Sports_Website) | Run Locally |
+| **Non-Academic Issue Tracker** | Platform for reporting and resolving non-academic student issues | Centralized portal for facilities, administration, and campus-life complaints | [Repo 🔗](https://github.com/SAINATH0224/Non-Acedamic-Issue-Tracker) | In Progress |
+| **Smart Attendance Management System** | Real-time face recognition–based attendance system | Automates and secures attendance marking using computer vision | [Repo 🔗](https://github.com/SAINATH0224/Sams) | In Progress |
+| **Wikipedia Sentiment Analysis (Nigeria)** | Sentiment analysis of Wikipedia articles using ML and Streamlit | Assesses public perception and media tone at a national level | [Repo 🔗](https://github.com/SAINATH0224/NigeriaWiki) | Streamlit Demo Soon |
+| **NYC Green Taxi Analysis** | Exploratory data analysis of NYC Green Taxi trips (Aug 2023) | Extracts insights and performs fare prediction using regression models | [Repo 🔗] | Completed |
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sainathgoudgoda) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:godasainathgoud03@gmail.com) 
 
