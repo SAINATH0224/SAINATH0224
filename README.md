@@ -50,20 +50,18 @@ _A collection of projects showcasing different aspects of my technical journey_
 <tr>
 <td width="50%" valign="top">
 
-### 🏠 **Home Foods Website**
-A full-stack food ordering platform for home-based chefs, built using HTML, CSS, JavaScript, Firebase, and AWS services.  
-Supports real-time order handling and scalable deployment.
+### 🏦 **Digital Wallet Tracker 2.0**
+A Flask web app that uses OCR to extract transaction data from UPI receipts, helping users track and visualize spending patterns with interactive charts.
 
-🔗 [View Code](https://github.com/SAINATH0224/Home-Foods)
+🟢 **Live Demo** · 🔵 [View Code](#)
 
 </td>
 <td width="50%" valign="top">
 
-### 🧠 **Mental Health Predictor**
-Machine learning system that predicts mental health treatment-seeking behavior using survey data.  
-Multiple ML models implemented with feature selection and cross-validation.
+### ✋ **Sign Language Translator**
+An ongoing project that translates sign language gestures into text and speech in real time using Computer Vision and Deep Learning techniques.
 
-🔗 [View Code](https://github.com/SAINATH0224/MentalHealthPredictor)
+🔴 **In Progress** · 🔵 [View Code](#)
 
 </td>
 </tr>
@@ -71,20 +69,18 @@ Multiple ML models implemented with feature selection and cross-validation.
 <tr>
 <td width="50%" valign="top">
 
-### 🏏 **IMPULSE Sports Website**
-Official sports committee website for NMIMS STME showcasing teams, events, and announcements.  
-Acts as a central hub for sports coordination.
+### 🗓️ **Smart Timetable Generator**
+A web-based system using Flask and Firebase to automatically generate conflict-free academic schedules for educational institutions.
 
-🔗 [View Code](https://github.com/SAINATH0224/IMPULSE_Sports_Website)
+🔴 **In Progress** · 🔵 [View Code](#)
 
 </td>
 <td width="50%" valign="top">
 
-### 🧾 **Smart Attendance Management System**
-Real-time face recognition–based attendance system using computer vision techniques.  
-Automates attendance marking with improved accuracy and security.
+### 🗺️ **Local Vendor Finder**
+A location-based web application with a conversational bot that helps users find nearby vegetable and fruit vendors using Google Maps API integration.
 
-🔗 [View Code](https://github.com/SAINATH0224/Sams)
+🟢 **Live Demo** · 🔵 [View Code](#)
 
 </td>
 </tr>
