@@ -47,20 +47,18 @@ _A collection of projects showcasing different aspects of my technical journey_
 <tr>
 <td width="50%" valign="top">
 
-### 🏠 **Home Foods Website**
-A full-stack platform for promoting and selling homemade food products, built using HTML, CSS, JavaScript, Firebase, and AWS services.  
-Supports secure authentication, order handling, and scalable deployment.
+### 🏠 <a href="https://github.com/SAINATH0224/Home-Foods" target="_blank">Home Foods Website</a>
+A full-stack platform for promoting and selling homemade food products using HTML, CSS, JavaScript, Firebase, and AWS services.
 
-🔴 **Deploying Soon** · 🔵 [View Code](https://github.com/SAINATH0224/Home-Foods)
+🔴 <b>Deploying Soon</b> · 🔵 <a href="https://github.com/SAINATH0224/Home-Foods" target="_blank">View Code</a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🧠 **Mental Health Predictor**
-Machine learning system that predicts mental health treatment-seeking behavior using real-world survey data.  
-Multiple ML models implemented with feature selection and cross-validation.
+### 🧠 <a href="https://github.com/SAINATH0224/MentalHealthPredictor" target="_blank">Mental Health Predictor</a>
+A machine learning system that predicts mental health treatment-seeking behavior using real-world survey data and multiple ML models.
 
-🔵 **Run Locally** · 🔵 [View Code](https://github.com/SAINATH0224/MentalHealthPredictor)
+🔵 <b>Run Locally</b> · 🔵 <a href="https://github.com/SAINATH0224/MentalHealthPredictor" target="_blank">View Code</a>
 
 </td>
 </tr>
@@ -68,23 +66,23 @@ Multiple ML models implemented with feature selection and cross-validation.
 <tr>
 <td width="50%" valign="top">
 
-### 🏏 **IMPULSE Sports Website**
-Official website for the NMIMS STME Sports Committee showcasing teams, events, and announcements.  
-Acts as a central hub for sports coordination and updates.
+### 🏏 <a href="https://github.com/SAINATH0224/IMPULSE_Sports_Website" target="_blank">IMPULSE Sports Website</a>
+Official website for the NMIMS STME Sports Committee showcasing teams, events, and announcements.
 
-🔵 **Run Locally** · 🔵 [View Code](https://github.com/SAINATH0224/IMPULSE_Sports_Website)
+🔵 <b>Run Locally</b> · 🔵 <a href="https://github.com/SAINATH0224/IMPULSE_Sports_Website" target="_blank">View Code</a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🧾 **Smart Attendance Management System**
-A real-time face recognition–based attendance system that automates and secures attendance marking using computer vision techniques.
+### 🧾 <a href="https://github.com/SAINATH0224/Sams" target="_blank">Smart Attendance Management System</a>
+A real-time face recognition–based attendance system that automates and secures attendance marking using computer vision.
 
-🔴 **In Progress** · 🔵 [View Code](https://github.com/SAINATH0224/Sams)
+🔴 <b>In Progress</b> · 🔵 <a href="https://github.com/SAINATH0224/Sams" target="_blank">View Code</a>
 
 </td>
 </tr>
 </table>
+
 
 <details>
 <summary>📂 <b>View All Projects</b></summary>
