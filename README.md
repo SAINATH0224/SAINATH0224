@@ -42,41 +42,51 @@ _A collection of projects showcasing different aspects of my technical journey_
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 ### 🏠 <a href="https://github.com/SAINATH0224/Himabindu-Home-Foods" target="_blank">Home Foods Website</a>
 A full-stack platform for promoting and selling homemade food products using HTML, CSS, JavaScript, Firebase, and AWS services.
 
-<a href="https://d3fe13j8cyielm.cloudfront.net/" >Live Demo</a> | <a href="https://github.com/SAINATH0224/Himabindu-Home-Foods" >View Code</a>
+<a href="https://d3fe13j8cyielm.cloudfront.net/" target="_blank">Live Demo</a> | 
+<a href="https://github.com/SAINATH0224/Himabindu-Home-Foods" target="_blank">View Code</a>
 
 </td>
-</tr>
 
-<tr>
 <td width="50%" valign="top">
 
 ### 🏏 <a href="https://github.com/SAINATH0224/IMPULSE_Sports_Website" target="_blank">IMPULSE Sports Website</a>
 Official website for the NMIMS STME Sports Committee showcasing teams, events, and announcements.
 
-<a href="https://sainath0224.github.io/IMPULSE_Sports_Website/">Live Demo</a> | <a href="https://github.com/SAINATH0224/IMPULSE_Sports_Website" target="_blank">View Code</a>
+<a href="https://sainath0224.github.io/IMPULSE_Sports_Website/" target="_blank">Live Demo</a> | 
+<a href="https://github.com/SAINATH0224/IMPULSE_Sports_Website" target="_blank">View Code</a>
+
+</td>
+
+</tr>
+
+<tr>
 
 <td width="50%" valign="top">
 
 ### 🧠 <a href="https://github.com/SAINATH0224/MentalHealthPredictor" target="_blank">Mental Health Predictor</a>
 A machine learning system that predicts mental health treatment-seeking behavior using real-world survey data and multiple ML models.
 
-<b>Run Locally</b> | <a href="https://github.com/SAINATH0224/MentalHealthPredictor" target="_blank">View Code</a>
+<b>Run Locally</b> | 
+<a href="https://github.com/SAINATH0224/MentalHealthPredictor" target="_blank">View Code</a>
 
 </td>
-</td>
+
 <td width="50%" valign="top">
 
 ### 🧾 <a href="https://github.com/SAINATH0224/Sams" target="_blank">Smart Attendance Management System</a>
 A real-time face recognition–based attendance system that automates and secures attendance marking using computer vision.
 
-<b>In Progress</b> | <a href="https://github.com/SAINATH0224/Sams" target="_blank">View Code</a>
+<b>In Progress</b> | 
+<a href="https://github.com/SAINATH0224/Sams" target="_blank">View Code</a>
 
 </td>
+
 </tr>
 </table>
 
