@@ -66,7 +66,7 @@ A machine learning system that predicts mental health treatment-seeking behavior
 ### 🏏 <a href="https://github.com/SAINATH0224/IMPULSE_Sports_Website" target="_blank">IMPULSE Sports Website</a>
 Official website for the NMIMS STME Sports Committee showcasing teams, events, and announcements.
 
-<b>Run Locally</b> | <a href="https://github.com/SAINATH0224/IMPULSE_Sports_Website" target="_blank">View Code</a>
+<a href="https://sainath0224.github.io/IMPULSE_Sports_Website/">Live Demo</a> | <a href="https://github.com/SAINATH0224/IMPULSE_Sports_Website" target="_blank">View Code</a>
 
 </td>
 <td width="50%" valign="top">
