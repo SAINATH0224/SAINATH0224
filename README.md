@@ -44,10 +44,10 @@ _A collection of projects showcasing different aspects of my technical journey_
 <tr>
 <td width="50%" valign="top">
 
-### 🏠 <a href="https://github.com/SAINATH0224/Home-Foods" target="_blank">Home Foods Website</a>
+### 🏠 <a href="https://github.com/SAINATH0224/Himabindu-Home-Foods" target="_blank">Home Foods Website</a>
 A full-stack platform for promoting and selling homemade food products using HTML, CSS, JavaScript, Firebase, and AWS services.
 
-🔴 <b>Deploying Soon</b> · 🔵 <a href="[https://github.com/SAINATH0224/Home-Foods](https://d3fe13j8cyielm.cloudfront.net/)" target="_blank">View Code</a>
+🔴 <b>Deploying Soon</b> · 🔵 <a href="https://d3fe13j8cyielm.cloudfront.net/" target="_blank">View Code</a>
 
 </td>
 <td width="50%" valign="top">
