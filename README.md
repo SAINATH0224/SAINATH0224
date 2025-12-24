@@ -37,6 +37,80 @@ I enjoy transforming data into meaningful insights and developing scalable appli
 
 ---
 
+## 💼 Featured Projects
+_A collection of projects showcasing different aspects of my technical journey_
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏠 <a href="https://github.com/SAINATH0224/Home-Foods" target="_blank">Home Foods Website</a>
+A full-stack platform for promoting and selling homemade food products using HTML, CSS, JavaScript, Firebase, and AWS services.
+
+🔴 <b>Deploying Soon</b> · 🔵 <a href="https://github.com/SAINATH0224/Home-Foods" target="_blank">View Code</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 <a href="https://github.com/SAINATH0224/MentalHealthPredictor" target="_blank">Mental Health Predictor</a>
+A machine learning system that predicts mental health treatment-seeking behavior using real-world survey data and multiple ML models.
+
+🔵 <b>Run Locally</b> · 🔵 <a href="https://github.com/SAINATH0224/MentalHealthPredictor" target="_blank">View Code</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🏏 <a href="https://github.com/SAINATH0224/IMPULSE_Sports_Website" target="_blank">IMPULSE Sports Website</a>
+Official website for the NMIMS STME Sports Committee showcasing teams, events, and announcements.
+
+🔵 <b>Run Locally</b> · 🔵 <a href="https://github.com/SAINATH0224/IMPULSE_Sports_Website" target="_blank">View Code</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🧾 <a href="https://github.com/SAINATH0224/Sams" target="_blank">Smart Attendance Management System</a>
+A real-time face recognition–based attendance system that automates and secures attendance marking using computer vision.
+
+🔴 <b>In Progress</b> · 🔵 <a href="https://github.com/SAINATH0224/Sams" target="_blank">View Code</a>
+
+</td>
+</tr>
+</table>
+
+
+<details>
+<summary>📂 <b>View All Projects</b></summary>
+
+<br>
+
+| Project Name | Description | Tech Stack | Links |
+|-------------|-------------|------------|-------|
+| **Digital Wallet Tracker 2.0** | OCR-powered UPI receipt analyzer with spending visualization | `Python`, `Flask`, `Tesseract`, `Chart.js` | [Code](#) · [Demo](#) |
+| **Sign Language Translator** | Real-time gesture recognition and speech synthesis | `Python`, `TensorFlow`, `OpenCV`, `MediaPipe` | [Code](#) |
+| **Smart Timetable Generator** | Automated academic scheduling system | `Python`, `Flask`, `Firebase` | [Code](#) |
+| **Local Vendor Finder** | Maps-based vendor location service with AI bot | `HTML`, `CSS`, `JavaScript`, `Google Maps API` | [Code](#) · [Demo](#) |
+| **QueryBot – Campus Assistant** | NLP chatbot for university queries | `Python`, `NLTK`, `TensorFlow` | [Code](#) |
+| **Attendance QuickChecker** | Student attendance tracking and analytics | `Python`, `Tkinter`, `Pandas` | [Code](#) |
+| **Mental Health Predictor** | ML model for treatment outcome prediction | `Python`, `Scikit-learn`, `Pandas` | [Code](#) |
+| **Best Frame Selector** | Video frame quality assessment tool | `Python`, `OpenCV` | [Code](#) |
+| **Retail Analytics Dashboard** | Business intelligence for Kirana stores | `Power BI`, `DAX` | [Code](#) |
+| **Academic Performance Dashboard** | Student result analysis and insights | `Power BI`, `DAX` | [Code](#) |
+
+</details>
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=SAINATH0224&show_icons=true&theme=dark)
+![](https://github-readme-streak-stats.herokuapp.com/?user=SAINATH0224&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SAINATH0224&layout=compact&theme=dark)
+
+---
+
 <div align="center">
 
 ## 💬 Let’s Connect & Collaborate
