@@ -55,7 +55,7 @@ A full-stack platform for promoting and selling homemade food products using HTM
 
 <td width="50%" valign="top">
 
-### 📄AI-Enabled OCR Framework for Automated Document Digitization <a href="https://github.com/SAINATH0224/AI-Enabled-OCR-Framework-for-Automated-Document-Digitization" target="_blank">
+### 📄<a href="https://github.com/SAINATH0224/AI-Enabled-OCR-Framework-for-Automated-Document-Digitization" >AI-Enabled-OCR-Framework-for-Automated-Document-Digitization</a>
 AI-Enabled OCR Framework for Automated Document Digitization</a>
 An AI-powered OCR system that extracts, processes, and digitizes text from documents using computer vision and machine learning techniques.
 
