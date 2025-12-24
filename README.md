@@ -50,14 +50,6 @@ A full-stack platform for promoting and selling homemade food products using HTM
 <a href="https://d3fe13j8cyielm.cloudfront.net/" >Live Demo</a> | <a href="https://github.com/SAINATH0224/Himabindu-Home-Foods" >View Code</a>
 
 </td>
-<td width="50%" valign="top">
-
-### 🧠 <a href="https://github.com/SAINATH0224/MentalHealthPredictor" target="_blank">Mental Health Predictor</a>
-A machine learning system that predicts mental health treatment-seeking behavior using real-world survey data and multiple ML models.
-
-<b>Run Locally</b> | <a href="https://github.com/SAINATH0224/MentalHealthPredictor" target="_blank">View Code</a>
-
-</td>
 </tr>
 
 <tr>
@@ -68,6 +60,14 @@ Official website for the NMIMS STME Sports Committee showcasing teams, events, a
 
 <a href="https://sainath0224.github.io/IMPULSE_Sports_Website/">Live Demo</a> | <a href="https://github.com/SAINATH0224/IMPULSE_Sports_Website" target="_blank">View Code</a>
 
+<td width="50%" valign="top">
+
+### 🧠 <a href="https://github.com/SAINATH0224/MentalHealthPredictor" target="_blank">Mental Health Predictor</a>
+A machine learning system that predicts mental health treatment-seeking behavior using real-world survey data and multiple ML models.
+
+<b>Run Locally</b> | <a href="https://github.com/SAINATH0224/MentalHealthPredictor" target="_blank">View Code</a>
+
+</td>
 </td>
 <td width="50%" valign="top">
 
