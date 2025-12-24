@@ -37,15 +37,6 @@ I enjoy transforming data into meaningful insights and developing scalable appli
 
 ---
 
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=SAINATH0224&show_icons=true&theme=dark)
-![](https://github-readme-streak-stats.herokuapp.com/?user=SAINATH0224&theme=dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SAINATH0224&layout=compact&theme=dark)
-
----
-
 <div align="center">
 
 ## 💬 Let’s Connect & Collaborate
