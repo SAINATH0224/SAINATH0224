@@ -55,7 +55,7 @@ A full-stack platform for promoting and selling homemade food products using HTM
 ### 🧠 <a href="https://github.com/SAINATH0224/MentalHealthPredictor" target="_blank">Mental Health Predictor</a>
 A machine learning system that predicts mental health treatment-seeking behavior using real-world survey data and multiple ML models.
 
-🔵 <b>Run Locally</b> · 🔵 <a href="https://github.com/SAINATH0224/MentalHealthPredictor" target="_blank">View Code</a>
+<b>Run Locally</b> | <a href="https://github.com/SAINATH0224/MentalHealthPredictor" target="_blank">View Code</a>
 
 </td>
 </tr>
@@ -66,7 +66,7 @@ A machine learning system that predicts mental health treatment-seeking behavior
 ### 🏏 <a href="https://github.com/SAINATH0224/IMPULSE_Sports_Website" target="_blank">IMPULSE Sports Website</a>
 Official website for the NMIMS STME Sports Committee showcasing teams, events, and announcements.
 
-🔵 <b>Run Locally</b> · 🔵 <a href="https://github.com/SAINATH0224/IMPULSE_Sports_Website" target="_blank">View Code</a>
+<b>Run Locally</b> | <a href="https://github.com/SAINATH0224/IMPULSE_Sports_Website" target="_blank">View Code</a>
 
 </td>
 <td width="50%" valign="top">
@@ -74,7 +74,7 @@ Official website for the NMIMS STME Sports Committee showcasing teams, events, a
 ### 🧾 <a href="https://github.com/SAINATH0224/Sams" target="_blank">Smart Attendance Management System</a>
 A real-time face recognition–based attendance system that automates and secures attendance marking using computer vision.
 
-🔴 <b>In Progress</b> · 🔵 <a href="https://github.com/SAINATH0224/Sams" target="_blank">View Code</a>
+<b>In Progress</b> | <a href="https://github.com/SAINATH0224/Sams" target="_blank">View Code</a>
 
 </td>
 </tr>
