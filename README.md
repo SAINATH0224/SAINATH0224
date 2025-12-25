@@ -80,11 +80,9 @@ Official website for the NMIMS STME Sports Committee showcasing teams, events, a
 <td width="50%" valign="top">
 
 ### 🧠 <a href="https://github.com/SAINATH0224/Ro-Water-Plant-Web-Application" target="_blank">Ro-Water-Plant-Web-Application</a>
-web-based application designed to streamline operations for RO water plant administrators. Features real-time monitoring, driver and fuel tracking, trip management, payment processing, and analytics powered by Firebase and Chart.js for comprehensive performance insights.
+A web-based application for RO water plant administrators with real-time monitoring, tracking, payments, and analytics.
 
-https://github.com/SAINATH0224/Ro-Water-Plant-Web-Application
-
-<b>Run Locally</b> | 
+<b>Live Demo</b> | 
 <a href="https://github.com/SAINATH0224/MentalHealthPredictor" target="_blank">View Code</a>
 
 </td>
