@@ -3,7 +3,7 @@
 # **Sainath Goud**  
 
 ### B.Tech CSE (Data Science) Student | NMIMS Hyderabad  
-## **Aspiring ML Engineer | Full Stack Developer**
+## **ML Engineer | Full Stack Developer**
 
 <br>
 
@@ -79,8 +79,10 @@ Official website for the NMIMS STME Sports Committee showcasing teams, events, a
 
 <td width="50%" valign="top">
 
-### 🧠 <a href="https://github.com/SAINATH0224/MentalHealthPredictor" target="_blank">Mental Health Predictor</a>
-A machine learning system that predicts mental health treatment-seeking behavior using real-world survey data and multiple ML models.
+### 🧠 <a href="https://github.com/SAINATH0224/Ro-Water-Plant-Web-Application" target="_blank">Ro-Water-Plant-Web-Application</a>
+web-based application designed to streamline operations for RO water plant administrators. Features real-time monitoring, driver and fuel tracking, trip management, payment processing, and analytics powered by Firebase and Chart.js for comprehensive performance insights.
+
+https://github.com/SAINATH0224/Ro-Water-Plant-Web-Application
 
 <b>Run Locally</b> | 
 <a href="https://github.com/SAINATH0224/MentalHealthPredictor" target="_blank">View Code</a>
