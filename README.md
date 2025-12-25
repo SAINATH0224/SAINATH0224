@@ -18,7 +18,7 @@
 I am a **Computer Science & Data Science undergraduate** passionate about building **real-world solutions** through **Machine Learning, Computer Vision, and Full-Stack Development**.  
 I enjoy transforming data into meaningful insights and developing scalable applications that solve practical problems.
 
-- 🔭 **Current Work**: Vision-based real-time safety system for highway crosswalks using **YOLOv8**
+- 🔭 **Current Work**: Vision-based real-time safety systems for highway crosswalks and wildlife protection using .**YOLOv8**
 - 🌱 **Learning**: Advanced Machine Learning, Deep Learning, AWS cloud services, and backend systems
 - 🤝 **Open to Collaborate On**: ML/DL projects, Computer Vision, Full-Stack Web Applications
 - 💡 **Belief**: Simple, effective solutions create the biggest impact
