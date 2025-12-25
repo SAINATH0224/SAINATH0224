@@ -82,8 +82,9 @@ Official website for the NMIMS STME Sports Committee showcasing teams, events, a
 ### 🧠 <a href="https://github.com/SAINATH0224/Ro-Water-Plant-Web-Application" target="_blank">Ro-Water-Plant-Web-Application</a>
 A web-based application for RO water plant administrators with real-time monitoring, tracking, payments, and analytics.
 
-<b>Live Demo</b> | 
-<a href=""https://github.com/SAINATH0224/Ro-Water-Plant-Web-Application" target="_blank">View Code</a>
+<a href=""https://github.com/SAINATH0224/Ro-Water-Plant-Web-Application" target="_blank">Live Demo</a> |
+<a href="https://github.com/SAINATH0224/IMPULSE_Sports_Website" target="_blank">View Code</a>
+
 
 
 </td>
