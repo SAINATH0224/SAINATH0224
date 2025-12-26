@@ -115,7 +115,7 @@ A web-based application for RO water plant administrators with real-time monitor
 </a>
 <br><br>
 
-> 🚀 *Let’s build solutions that create real-world impact.*
+ 🚀 *Let’s build solutions that create real-world impact.*
 
 </div>
 
